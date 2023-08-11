@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css?family=Poppins:200i,400&display=swap');
+
+body {
+    font-family: 'Poppins', sans-serif  ;
+}
+
+.survey-header {
+    text-align: center;
+}
+
+form {
+    margin-left: 5rem;
+    margin-right: 5rem;
+}
+
+input {
+    width: 100%;
+    height:1.5rem;
+}
+
+.form-group {
+    margin-top: 1.25rem;
+    margin-left: 1.5rem;
+    margin-right: 1.5rem;
+}
